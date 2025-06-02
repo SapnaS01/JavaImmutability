@@ -1,5 +1,6 @@
 package com.self.oops;
 
+// super class
 public class Human {
 	
 	public int x=10;
