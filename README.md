@@ -18,6 +18,12 @@ Immutable objects are widely used in Java and functional programming for many re
 
 ---
 
+## Example of Predefined Immutable class in java
+- String Class
+- Wrapper Classes (Integer,Long, Double, Float, Short, Byte,Boolean, Character)
+- LocalDate,LocalDateTime,LocalTime (Part of Java8 Date-Time Api)
+- BigDecimal, BigInteger
+
 ## 🧱 How to Create an Immutable Class in Java
 
 To create an immutable class, follow these rules:
